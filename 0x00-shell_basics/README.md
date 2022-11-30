@@ -7,3 +7,5 @@ Sixth script displays all content in long format with numerical form only
 Seventh script creates a directory in /tmp
 Eighth script moves file betty to my_first_directory
 Ninth Script deletes file betty
+Tenth script deletes myfirstdirectory
+Eleventh script changes working directory to previous one
