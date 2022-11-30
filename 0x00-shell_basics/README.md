@@ -9,3 +9,4 @@ Eighth script moves file betty to my_first_directory
 Ninth Script deletes file betty
 Tenth script deletes myfirstdirectory
 Eleventh script changes working directory to previous one
+Twelfth script lists all files in current directory, parent directory and boot directory
